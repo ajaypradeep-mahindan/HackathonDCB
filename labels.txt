@@ -1,0 +1,4 @@
+0 Bacterial Conjunctivitis
+1 Viral Conjunctivitis 
+2 Allergic Conjunctivitis
+3 Others
